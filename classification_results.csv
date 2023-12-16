@@ -1,0 +1,20 @@
+row_id,image_id,positionName,categoryName,predictedPosition
+2781,724,middleCenter,truck,middleLeft
+2808,724,middleCenter,car,middleLeft
+3522,285,middleCenter,bear,bottomCenter
+4064,785,middleCenter,person,middleLeft
+4184,785,bottomCenter,skis,bottomCenter
+5352,776,middleCenter,bed,middleLeft
+5585,139,middleCenter,potted plant,middleLeft
+5798,632,bottomLeft,bed,bottomLeft
+6125,885,bottomRight,tennis racket,bottomCenter
+6139,1000,bottomLeft,tennis racket,bottomCenter
+6579,139,middleRight,microwave,bottomCenter
+6581,139,middleRight,refrigerator,bottomCenter
+6595,139,topRight,clock,middleLeft
+6667,632,middleCenter,chair,middleLeft
+6779,139,middleCenter,dining table,bottomCenter
+6924,872,topRight,sports ball,bottomCenter
+7189,872,topCenter,baseball glove,bottomCenter
+7894,802,middleRight,refrigerator,topCenter
+8164,802,middleLeft,oven,middleLeft

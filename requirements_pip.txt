@@ -1,0 +1,16 @@
+accelerate
+bitsandbytes
+datasets
+huggingface-hub
+matplotlib
+pandas
+peft
+pillow
+scikit-learn
+tokenizers
+tqdm
+transformers
+chardet
+charset-normalizer
+nltk
+Rouge

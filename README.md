@@ -1,9 +1,20 @@
 # NLP-Project
 Project of Natural Language Processing course - UVA Fall 2023
 
-Contributors are the same people listed in the submitted report in the Canvas.
+Contributors are the same people listed in the submitted report in Canvas.
 
 Instructions:
+Before running any notebooks, create a python environment and activate it.
+
+```bash
+conda create -n nlp_project python=3.10 -y
+
+conda activate nlp_project
+
+pip3 install torch torchvision torchaudio
+pip3 install -r requirements_pip.txt
+```
+
 
 Check the Instructions_executing_files.ipynb notebook for data generation, training, and validation.
 
